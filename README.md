@@ -2,7 +2,7 @@
   
 DCM Kit is a set of materials in a form of documents, decks and external links to help CSP partners in Hoster DC Migration Program (DCM) with their migration journey.
 
-Last update: january 20, 2020
+Last update: February 12, 2021
 
 ## Getting started
 
@@ -71,6 +71,7 @@ Last update: january 20, 2020
 - Windows Virtual Desktop Sales and Business Value Fundamentals ([link](https://partner.microsoft.com/en-us/asset/collection/windows-virtual-desktop-sales-and-business-value-fundamentals#/))
 - Desktop virtualization using Windows Virtual Desktop-service architecture ([link](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/media/wvd-poster-download.png/))
 - Azure academy WVD on youtube ([link](https://www.youtube.com/playlist?list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK/))
+- WVD: Migration guide for remote desktop services ([link](https://clouddamcdnprodep.azureedge.net/gdc/gdcaM0pQQ/original/))
 
 
 ## Migration techniques
